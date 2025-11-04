@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trentpierce&row=1&column=5" alt="trentpierce" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/osintwx" target="blank"><img src="https://img.shields.io/twitter/follow/osintwx?logo=twitter&style=for-the-badge" alt="osintwx" /></a> </p>
+<p align="center"> <a href="https://twitter.com/severesig" target="blank"><img src="https://img.shields.io/twitter/follow/severesig?logo=twitter&style=for-the-badge" alt="SevereSig" /></a> </p>
 
 - 🌱 I’m currently working on **Open Source API integrations to make data more accessible to end users without development experience**
 
