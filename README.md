@@ -17,6 +17,12 @@
 
 - 📫 How to reach me **pierce.trent@gmail.com** I'm always open to new ideas, discussions, and collaborations.
 
+<div align="center">
+  <a href="https://github.com/sponsors/TrentPierce">
+    <img src="https://img.shields.io/github/sponsors/TrentPierce?style=for-the-badge&logo=githubsponsors&label=Sponsor&labelColor=bf3989" alt="Sponsor TrentPierce">
+  </a>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/severesig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osintwx" height="30" width="40" /></a>
