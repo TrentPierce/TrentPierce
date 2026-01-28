@@ -22,7 +22,7 @@ I'm a **full-stack developer and AI engineer** with a unique background that com
 - 🛡️ **Security-First Mindset**: Law enforcement background provides unique perspective on threat modeling, vulnerability assessment, and security architecture
 - 🤖 **AI/LLM Specialist**: Building production-grade applications with GPT-4, Claude, and local LLMs using LangChain, LM Studio, and custom multi-agent systems
 - 📱 **Mobile Expertise**: Years of Android development with Java and Kotlin
-- 🔍 **Intelligence Analysis**: Experience translating complex data into actionable insights—now applied to prediction markets and financial intelligence
+- 🔍 **Intelligence Analysis**: Experience translating complex data into actionable insights now applied to prediction markets and financial intelligence
 - 🚀 **Entrepreneur**: Running commercial SaaS platforms while contributing to open-source
 
 ---
@@ -274,7 +274,7 @@ I'm always interested in connecting with:
 
 <div align="center">
 
-### 💡 "From protecting communities to protecting systems—now building AI that makes both safer."
+### 💡 "From protecting communities to protecting systems and now building AI that makes both safer."
 
 **⭐ If you find my work valuable, consider starring some repositories or reaching out to collaborate!**
 
