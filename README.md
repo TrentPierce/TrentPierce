@@ -85,7 +85,7 @@ Runs local models in parallel, scores responses with a shared rubric, and produc
 ### 🔹 [Shard](https://github.com/TrentPierce/Shard)  
 **Distributed P2P AI Inference Network**
 
-A peer-to-peer system where browsers can contribute WebGPU compute as “Scouts”, and more powerful verifier nodes finalize model outputs. Designed to explore decentralized shared AI inference workloads.  [oai_citation:4‡GitHub](https://github.com/TrentPierce/Shard)
+A peer-to-peer system where browsers can contribute WebGPU compute as “Scouts”, and more powerful verifier nodes finalize model outputs. Designed to explore decentralized shared AI inference workloads.  [Shard Repo](https://github.com/TrentPierce/Shard)
 
 **Highlights:**
 - Browser-based compute contribution
@@ -98,7 +98,7 @@ A peer-to-peer system where browsers can contribute WebGPU compute as “Scouts�
 ### 🔹 [Koda](https://github.com/TrentPierce/Koda)  
 **AI Browser Agent Framework**
 
-An extensible AI agent environment with support for multiple models (Gemini, OpenAI, Claude), browser automation, self-healing selector logic, computer vision heuristics, and scalable execution.  [oai_citation:5‡GitHub](https://github.com/TrentPierce/Koda)
+An extensible AI agent environment with support for multiple models (Gemini, OpenAI, Claude), browser automation, self-healing selector logic, computer vision heuristics, and scalable execution.  [Koda Repo](https://github.com/TrentPierce/Koda)
 
 **Features:**
 - Multi-LLM support
