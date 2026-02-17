@@ -22,43 +22,39 @@ My background spans cyber investigations, mobile development, and full-stack eng
 - Build observable, controllable systems  
 - Ship products that real users depend on  
 
-Today I focus on applied LLM architecture, multi-model orchestration, and AI-powered SaaS platforms.
+Today I focus on applied LLM architecture, multi-model orchestration, and AI-powered platforms with real operational value.
 
 ---
 
 ## Core Expertise
 
 ### AI & LLM Engineering
-- Multi-model orchestration (parallel evaluation + consensus)
+- Multi-model orchestration and deliberation
 - GPT-4 / Claude production integrations
 - Vision + text multimodal pipelines
-- Prompt evaluation and benchmarking frameworks
+- Prompt evaluation and benchmarking
 - Retrieval-augmented generation (RAG)
-- Local LLM deployment (LM Studio)
+- Local LLM deployments (LM Studio)
 - Async agent architectures
-- Guardrails, output structuring, and safety design
+- Guardrails and structured output design
 
 ### Backend & Systems Architecture
 - Python (FastAPI, Flask)
-- Asyncio-based high-performance services
-- REST APIs and microservices
-- WebSockets and real-time systems
-- PostgreSQL and structured data design
-- Dockerized deployment pipelines
-- Production observability mindset
+- Async services and microservices
+- REST APIs and WebSockets
+- PostgreSQL and backend design
+- Dockerized pipelines
+- Observability and system resilience
 
 ### Security & Research
 - Threat modeling and adversarial thinking
-- Applied cryptography
-- Vulnerability research
-- Blockchain security analysis
-- Defensive system design for AI applications
+- Applied cryptography and blockchain research
+- Defensive architecture for AI systems
 
 ### Frontend & Mobile
 - TypeScript / React dashboards
-- Data visualization interfaces
+- Real-time interfaces
 - Native Android (Java, Kotlin)
-- UX-driven utility apps
 
 ---
 
@@ -67,108 +63,93 @@ Today I focus on applied LLM architecture, multi-model orchestration, and AI-pow
 ### 🔹 [LingoScreen](https://lingoscreen.com)  
 **Founder / Engineer — AI Image Translation SaaS**
 
-A production SaaS platform that translates text inside images using computer vision + LLM pipelines.
+A production SaaS platform that translates text inside images using vision models + LLM processing.
 
-**What I built:**
-- Vision model integration
-- Post-processing pipelines for structured outputs
-- Backend API architecture
-- Deployment + operations
-- Customer-facing reliability
-
-This project demonstrates end-to-end ownership — from architecture to real-world usage.
+**Scope:**
+- Production vision model pipelines  
+- Custom post-processing logic  
+- Scalable backend infrastructure  
+- Live deployment with real customer usage
 
 ---
 
 ### 🔹 [PolyCouncil](https://github.com/TrentPierce/PolyCouncil)  
-**Multi-Model LLM Deliberation Engine (Open Source)**
+**Open-Source Multi-Model LLM Deliberation Engine**
 
-Framework for running multiple LLMs in parallel, scoring outputs, and generating consensus-driven results.
-
-**Why it matters:**
-- Makes model comparison measurable
-- Reduces single-model brittleness
-- Enables structured experimentation
-- Designed for local and hosted models
+Runs local models in parallel, scores responses with a shared rubric, and produces a consensus answer — ideal for comparing ensembles and evaluating model behavior.  [oai_citation:3‡GitHub](https://github.com/TrentPierce/PolyCouncil?utm_source=chatgpt.com)
 
 **Stack:** Python, Asyncio, LangChain, LM Studio
 
 ---
 
 ### 🔹 [Shard](https://github.com/TrentPierce/Shard)  
-**LLM-Oriented Framework / Tooling Project**
+**Distributed P2P AI Inference Network**
 
-Shard focuses on structured LLM workflows and modular AI system design. It emphasizes composability, control, and reducing prompt fragility in complex applications.
+A peer-to-peer system where browsers can contribute WebGPU compute as “Scouts”, and more powerful verifier nodes finalize model outputs. Designed to explore decentralized shared AI inference workloads.  [oai_citation:4‡GitHub](https://github.com/TrentPierce/Shard)
 
-Core themes:
-- Structured outputs
-- Modular prompt pipelines
-- System-level AI architecture
-- Reliability over novelty
+**Highlights:**
+- Browser-based compute contribution
+- Mesh networking via libp2p
+- Hybrid local/remote inference
+- Experimental distributed AI platform
 
 ---
 
 ### 🔹 [Koda](https://github.com/TrentPierce/Koda)  
-**AI Assistant / Agent-Oriented Project**
+**AI Browser Agent Framework**
 
-Koda explores agent-driven AI systems and practical assistant architectures. The project centers on building controllable, extensible AI tooling rather than thin wrappers around APIs.
+An extensible AI agent environment with support for multiple models (Gemini, OpenAI, Claude), browser automation, self-healing selector logic, computer vision heuristics, and scalable execution.  [oai_citation:5‡GitHub](https://github.com/TrentPierce/Koda)
 
-Focus areas:
-- Agent orchestration
-- Context management
-- Extensible tool integration
-- Real-world usability
+**Features:**
+- Multi-LLM support
+- DOM / UX automation intelligence
+- Confidence / belief network designs
+- Distributed execution components
 
 ---
 
 ### 🔹 [SituationRoom](https://github.com/TrentPierce/SituationRoom)  
 **Real-Time Intelligence Dashboard**
 
-Aggregates live geopolitical and market data into a React-based dashboard designed for rapid situational awareness.
+Aggregates live geopolitical and market data into a React dashboard designed for continuous situational awareness.
 
 **Stack:** TypeScript, React, real-time APIs
 
 ---
 
 ### 🔹 [Ethereum Address Collider](https://github.com/TrentPierce/Ethereum-Address-Collider)  
-**Cryptographic Research Project**
+**Applied Cryptography Research Tool**
 
-Explores Ethereum address generation principles and theoretical collision probabilities.
-
-Focuses on applied cryptography and blockchain security research.
+Explores theoretical aspects of Ethereum address generation and collision concepts.
 
 ---
 
 ### 🔹 [DontPause](https://github.com/TrentPierce/DontPause)  
 **Android Media Utility App**
 
-Prevents notifications from interrupting media playback.
-
-Demonstrates native Android development and user-focused problem solving.
+Prevents notification interruptions during media playback — demonstrates practical native Android problem solving.
 
 ---
 
-## Engineering Philosophy
+## Philosophy
 
-LLMs are powerful — but without structure, they’re unpredictable.
+LLMs are powerful, but without structure they’re unpredictable.
 
-My work centers on:
+My approach centers on:
+- Turning probabilistic outputs into structured, testable systems  
+- Designing observable AI pipelines  
+- Building with reliability and failure resistance in mind  
 
-- Turning probabilistic outputs into structured systems  
-- Making AI observable and testable  
-- Designing architectures that degrade gracefully  
-- Treating AI like infrastructure, not magic  
-
-I approach AI systems the way security teams approach networks: assume stress, assume misuse, design accordingly.
+AI should be treated like infrastructure — not magic.
 
 ---
 
 ## What I’m Looking For
 
-- Senior AI / LLM Engineering roles  
+- Senior AI / LLM Engineering  
 - Security + AI integration teams  
-- Founding engineer opportunities in serious AI startups  
-- Applied AI products with real-world users  
+- Founding engineer roles at ambitious AI startups  
+- Applied AI products with real users
 
 If you're building systems where reliability, structure, and security matter — we’ll probably get along.
 
@@ -178,7 +159,7 @@ If you're building systems where reliability, structure, and security matter —
 
 📧 pierce.trent@gmail.com  
 🐦 https://twitter.com/severesig  
-💻 https://github.com/TrentPierce  
+💻 https://github.com/TrentPierce
 
 ---
 
