@@ -76,7 +76,7 @@ A production SaaS platform that translates text inside images using vision model
 ### 🔹 [PolyCouncil](https://github.com/TrentPierce/PolyCouncil)  
 **Open-Source Multi-Model LLM Deliberation Engine**
 
-Runs local models in parallel, scores responses with a shared rubric, and produces a consensus answer — ideal for comparing ensembles and evaluating model behavior.  [oai_citation:3‡GitHub](https://github.com/TrentPierce/PolyCouncil?utm_source=chatgpt.com)
+Runs local models in parallel, scores responses with a shared rubric, and produces a consensus answer — ideal for comparing ensembles and evaluating model behavior.  [PolyCouncil Repo](https://github.com/TrentPierce/PolyCouncil?utm_source=chatgpt.com)
 
 **Stack:** Python, Asyncio, LangChain, LM Studio
 
